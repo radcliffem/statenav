@@ -193,7 +193,13 @@ color: #fff;
   text-decoration: none;
 }
 
+.leftcolumn {
+  float:left;
+}
 
+.rightcolumn {
+  float:right;
+}
 
 
 
